@@ -1,0 +1,26 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestankersley/Fitness-Tracker.git"
+  },
+  "author": "James Tankersley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamestankersley/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/jamestankersley/Fitness-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "logger": "0.0.1",
+    "mongod": "^2.0.0"
+  }
+}
