@@ -15,7 +15,7 @@ SO THAT I can plan my workouts better
 
 ## Screenshot of Completed Application
 
-![Workout-Tracker]
+![Workout-Tracker]C:\Users\jwtan\Workspace\Fitness-Tracker\Capture.JPG
 
 ## Heroku Link
 https://murmuring-depths-86395.herokuapp.com/
